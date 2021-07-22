@@ -1,1 +1,1 @@
-# Maintainence-of-Records-of-quarantined-people-staying-at-our-hostel-facility
+# Maintenance-of-records-of-quarantined-people-staying-at-our-hostel-facility
