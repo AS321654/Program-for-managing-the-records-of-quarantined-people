@@ -3,22 +3,22 @@ The operations you can perform on the entered data could be seen in image given 
 ![image](https://user-images.githubusercontent.com/84185310/126742522-345cc287-ed4c-455f-a532-5a2ebe18567f.png)
 
 These are some variables used as per the user requirement.
-    Allotted Room number
-    Name of the person
-    Age of the person
-    His Address
-    Arrival date
-    Coming from(place)
-    Where he was going to(place)
-    Discharged date
+    Allotted Room number,
+    Name of the person,
+    Age of the person,
+    His Address,
+    Arrival date,
+    Coming from(place),
+    Where he was going to(place),
+    Discharged date.
 There are some functions too to perform certain operations (given below) as per the requirement of user.
-    For adding the new records
-    For deleting the records.
-    For displaying the entered records
-    For finding out vacant room numbers
-    For finding out occupied room numbers
-    For sorting of room numbers and to display sorted room numbers along with the name of person staying in it.
-    For searching a record
+    For adding the new records,
+    For deleting the records,
+    For displaying the entered records,
+    For finding out vacant room numbers,
+    For finding out occupied room numbers,
+    For sorting of room numbers and to display sorted room numbers along with the name of person staying in it,
+    For searching a record.
 The available room numbers are 89 to 94.
 
 ![image](https://user-images.githubusercontent.com/84185310/126743275-87b50d67-e416-46da-8822-062996366cf9.png)
